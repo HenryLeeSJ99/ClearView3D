@@ -9,16 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@thatopen/components": "^2.3.18",
+    "@thatopen/components-front": "^2.3.13",
+    "@thatopen/fragments": "^2.3.0",
+    "@thatopen/ui": "^2.3.2",
+    "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "three": "0.160.1",
+    "web-ifc": "0.0.59"
   },
   "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "eslint": "^8",
-    "eslint-config-next": "15.0.3"
+    "@types/node": "^20.17.6",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "15.0.3",
+    "typescript": "^5.6.3"
   }
 }
